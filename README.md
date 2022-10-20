@@ -48,7 +48,7 @@ git clone https://github.com/claudionhangapc/wp-general-rest-api.git && cd wp-ge
     "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0L3dvcmRwcmVzcyIsImlhdCI6MTY2NTgwMTM5NSwiaWQiOiIxIiwiZXhwIjoxNjY1ODAxNDU1fQ.Cy7JBTFlrq5qspBMlaBOqd4SAzcXZNWp2g9r8nW1ZME",
     "refresh_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0L3dvcmRwcmVzcyIsImlhdCI6MTY2NTgwMTM5NSwiaWQiOiIxIiwiZXhwIjoxNjY1ODA2MzE1fQ.k9o4ao6GNKAjglGg9wLJwEwhHpu1a9oxyUF2aCI0eBY",
     "id": "1",
-    "user_email": "meusitepc@gmail.com",
+    "user_email": "claudio@meudominio.com",
     "user_nicename": "claudio",
     "user_display_name": "claudio"
 }
